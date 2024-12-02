@@ -16,6 +16,7 @@ public class Salutacio {
 		}
 		System.out.println(i);
 		System.out.println(aleatori);
+		System.out.println(aleatori);
 		
 		in.close();
 	}
